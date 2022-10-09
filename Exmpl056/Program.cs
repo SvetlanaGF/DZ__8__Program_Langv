@@ -36,7 +36,6 @@ int MetodSumRow (int [,] arr, int i) // суммируем элементы i-й
         SumRow = SumRow + array [i,j];
     }
     return SumRow;
-    Console.WriteLine();    
 }
 
 OutPutArrayTwoDimensional (array);
